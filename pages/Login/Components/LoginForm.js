@@ -9,7 +9,7 @@ export default function LoginForm() {
       <LoginInput type="password" placeholder="Enter Password" />
       <LoginButton text="LOGIN" />
       <p className="text-sm text-center text-white">
-        Don't have an account? <a href="#" className="text-yellow-500">Create one</a>
+        Not have an account? <a href="#" className="text-yellow-500">Create one</a>
       </p>
     </div>
   )
